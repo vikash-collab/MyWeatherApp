@@ -41,7 +41,7 @@ MyWeatherApp/
 ├── .project
 └── .settings/
 
-#🧠 Learning Goals
+🧠 Learning Goals
 This project helps you:
 
 Practice Java fundamentals and modular design
